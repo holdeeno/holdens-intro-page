@@ -1,0 +1,43 @@
+body {
+  font-family: "roboto", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  color: #800000;
+  font-family: "Ubuntu", sans-serif;
+}
+
+h2 {
+  font-family: "Ubuntu", sans-serif;
+}
+h3 {
+  font-size: 60%;
+}
+
+#selfie {
+    text-align:left;
+    font-size: 25%;
+    font-weight: bold;
+    margin:50px auto; 
+}
+
+a {
+  color: black	;
+}
+
+a:link {
+color: black;
+}
+
+a:visited {
+color: #800000;
+}
+
+a:hover {
+color: #708090;
+}
+
+img {
+  max-width:100%
+}
